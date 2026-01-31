@@ -1,9 +1,9 @@
 public class pattens {
     public static void main(String[] args) {
-//        System.out.println("*");
-//        System.out.println("* *");
-//        System.out.println("* * *");
-//        System.out.println("* * * *");
+        System.out.println(" *");
+        System.out.println("* *");
+        System.out.println("* * *");
+        System.out.println("* * * *");
 
         //right half method
 
@@ -11,7 +11,6 @@ public class pattens {
         System.out.println("* * * * ");
         System.out.println("* * *");
         System.out.println("* *");
-
         System.out.println(" *");
     }
 }
