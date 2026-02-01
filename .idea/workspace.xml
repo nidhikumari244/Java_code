@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="add some more codes on previous">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-fundamentals.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;nidhikumari244&quot;
+    },
+    {
+      &quot;author&quot;: &quot;nidhikumari244&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;author&quot;: &quot;nidhikumari244&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nidhikumari244/fundamentals.git&quot;,
+    &quot;accountId&quot;: &quot;6571a972-eb84-4d86-b7e1-b03abd568832&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38UGm81snZxoxw6xRPLbUBiCujW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeCal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oddeven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Return.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ar_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bitwise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.challenges.executor&quot;: &quot;Run&quot;,
+    &quot;Application.compoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.grading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.greaterOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.logical.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.orderOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.perimeter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.positiveNegativeZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shorthand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simple_interest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.unary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.wlc.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nidhi/OneDrive/Desktop/Java for DSA/fundamentals/src/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.factorial">
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Return" />
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factorial" />
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function" />
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parameter" />
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JAVA-fundamentals" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="JAVA-fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="JAVA-fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="JAVA-fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="JAVA-fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.factorial" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.parameter" />
+        <item itemvalue="Application.Return" />
+        <item itemvalue="Application.function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="" />
+      <created>1768846895740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768846895740</updated>
+      <workItem from="1768846896937" duration="1772000" />
+      <workItem from="1769235220151" duration="8074000" />
+      <workItem from="1769331961706" duration="3982000" />
+      <workItem from="1769401175242" duration="11532000" />
+      <workItem from="1769487791468" duration="2902000" />
+      <workItem from="1769532881943" duration="4312000" />
+      <workItem from="1769616342229" duration="4994000" />
+      <workItem from="1769681843983" duration="1404000" />
+      <workItem from="1769797091480" duration="1119000" />
+      <workItem from="1769836748671" duration="18217000" />
+      <workItem from="1769955446665" duration="6385000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated fundamentals of java">
+      <option name="closed" value="true" />
+      <created>1769488232492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769488232492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated fundamentals of java">
+      <option name="closed" value="true" />
+      <created>1769620749637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769620749637</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1769853242909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769853242909</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1769955479674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769955479674</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated fundamentals of java" />
+    <MESSAGE value="add some more codes on previous" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some more codes on previous" />
+  </component>
+</project>
