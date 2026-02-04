@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="add some more codes on previous">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/sumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nidhikumari244/fundamentals.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/nidhikumari244/Java_code.git&quot;,
     &quot;accountId&quot;: &quot;6571a972-eb84-4d86-b7e1-b03abd568832&quot;
   }
 }</component>
@@ -59,67 +60,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AgeCal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oddeven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Relational.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Return.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ar_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bitwise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.challenges.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compoundInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.grading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.greaterOfThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logical.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.orderOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattens.executor&quot;: &quot;Run&quot;,
-    &quot;Application.perimeter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.positiveNegativeZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shorthand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.simple_interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wlc.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nidhi/OneDrive/Desktop/Java for DSA/fundamentals/src/Main.java&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgeCal.executor": "Run",
+    "Application.Arithmetic.executor": "Run",
+    "Application.Arithmetic_operator.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.Oddeven.executor": "Run",
+    "Application.Relational.executor": "Run",
+    "Application.Return.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.ar_triangle.executor": "Run",
+    "Application.bitwise.executor": "Run",
+    "Application.challenges.executor": "Run",
+    "Application.compoundInterest.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.grading.executor": "Run",
+    "Application.greaterOfThree.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.leap_year.executor": "Run",
+    "Application.logical.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.orderOperator.executor": "Run",
+    "Application.parameter.executor": "Run",
+    "Application.pattens.executor": "Run",
+    "Application.perimeter.executor": "Run",
+    "Application.positiveNegativeZero.executor": "Run",
+    "Application.shorthand.executor": "Run",
+    "Application.simple_interest.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.sumOfDigits.executor": "Run",
+    "Application.unary.executor": "Run",
+    "Application.wlc.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/nidhi/OneDrive/Desktop/Java for DSA/fundamentals/untitled/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.factorial">
+  <component name="RunManager" selected="Application.LCM">
+    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCM" />
+      <module name="fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="JAVA-fundamentals" />
@@ -127,23 +143,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Return" />
-      <module name="JAVA-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factorial" />
-      <module name="JAVA-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function" />
-      <module name="JAVA-fundamentals" />
+      <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,6 +153,13 @@
     <configuration name="parameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parameter" />
       <module name="JAVA-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfDigits" />
+      <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -240,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCM" />
+        <item itemvalue="Application.sumOfDigits" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.parameter" />
-        <item itemvalue="Application.Return" />
-        <item itemvalue="Application.function" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +282,14 @@
       <workItem from="1769681843983" duration="1404000" />
       <workItem from="1769797091480" duration="1119000" />
       <workItem from="1769836748671" duration="18217000" />
-      <workItem from="1769955446665" duration="8008000" />
+      <workItem from="1769955446665" duration="9303000" />
+      <workItem from="1770029336869" duration="2730000" />
+      <workItem from="1770032101317" duration="664000" />
+      <workItem from="1770050041265" duration="5083000" />
+      <workItem from="1770181392680" duration="287000" />
+      <workItem from="1770181708518" duration="209000" />
+      <workItem from="1770182220709" duration="1434000" />
+      <workItem from="1770215778383" duration="5334000" />
     </task>
     <task id="LOCAL-00001" summary="updated fundamentals of java">
       <option name="closed" value="true" />
@@ -314,8 +330,32 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
     <MESSAGE value="updated fundamentals of java" />
     <MESSAGE value="add some more codes on previous" />
     <option name="LAST_COMMIT_MESSAGE" value="add some more codes on previous" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../java-code/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
