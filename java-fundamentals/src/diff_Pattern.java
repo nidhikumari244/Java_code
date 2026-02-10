@@ -11,22 +11,23 @@ class diff_Pattern {
 
      }
 
+    public static void printRightHalfPyramid(int maxRows) {
+        System.out.println("\n \nhere's right half pyramid");
+        int rows = 0;
+        while (rows < maxRows) {
+            System.out.print("$");
+            int i = 0;
+            while (i < rows) {
+                System.out.print(" $");
+                i++;
+            }
+            System.out.println();
+            rows++;
+        }
+    }
 
-//     public static void printFirstPattern(int maxRows) {
-//         int rows = 0;
-//         while (rows < maxRows)
-//         {
-//             System.out.print("$");
-//             int i = 0;
-//             while (i < rows) {
-//                 System.out.print(" $");
-//                 i++;
-//             }
-//             System.out.println();
-//             rows++;
-//         }
          public static void printReverseRightHalfPyramid(int maxRows) {
-             System.out.println("\n here's reverse right half pyramid");
+             System.out.println("\n here's reverse right half pyramid\n");
          int rows = maxRows;
          while (rows > 0 ) {
             int i = 0;
@@ -38,25 +39,6 @@ class diff_Pattern {
              System.out.println();
              rows--;
          }
-     }
-
-
-
-         public static void printRightHalfPyramid(int maxRows) {
-             System.out.println("\n \nhere's right half pyramid");
-             int rows = 0;
-             while (rows < maxRows) {
-                 System.out.print("$");
-                 int i = 0;
-                 while (i < rows) {
-                     System.out.print(" $");
-                     i++;
-                 }
-                 System.out.println();
-                 rows++;
-             }
-
-
      }
 
     public static void printLeftHalfPyramid(int maxRows) {
@@ -81,4 +63,5 @@ class diff_Pattern {
             rows--;
         }
     }
+
 }
