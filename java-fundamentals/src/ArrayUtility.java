@@ -9,7 +9,7 @@ public class ArrayUtility {
             int[] nums = new int[size];
             int i = 0;
             while ( i< size){
-                System.out.println("enter the element no.: " + (i+1) + ": ");
+                System.out.println("enter the element no. " + (i+1) + ": ");
                 nums[i]= input.nextInt();
                 i++;
             }
