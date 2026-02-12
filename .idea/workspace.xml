@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="add some more codes on previous">
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/sumOfDigits.java" afterDir="false" />
+    <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
+      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/OccurrencesArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,23 +64,35 @@
     "Application.AgeCal.executor": "Run",
     "Application.Arithmetic.executor": "Run",
     "Application.Arithmetic_operator.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrSumAvg.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArraySearching.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.OccurrencesArray.executor": "Run",
     "Application.Oddeven.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.Prime.executor": "Run",
     "Application.Relational.executor": "Run",
     "Application.Return.executor": "Run",
+    "Application.ReverseTheDigits.executor": "Run",
     "Application.Swap.executor": "Run",
+    "Application.TwoD_array.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.ar_triangle.executor": "Run",
     "Application.bitwise.executor": "Run",
     "Application.challenges.executor": "Run",
     "Application.compoundInterest.executor": "Run",
+    "Application.diff_Pattern.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.function.executor": "Run",
     "Application.grading.executor": "Run",
     "Application.greaterOfThree.executor": "Run",
+    "Application.greatestCD.executor": "Run",
     "Application.if_else.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.logical.executor": "Run",
@@ -128,37 +139,37 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LCM">
-    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCM" />
+  <component name="RunManager" selected="Application.OccurrencesArray">
+    <configuration name="ArrSumAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrSumAvg" />
       <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
-      <module name="JAVA-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factorial" />
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameter" />
-      <module name="JAVA-fundamentals" />
+    <configuration name="ArraySearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySearching" />
+      <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumOfDigits" />
+    <configuration name="OccurrencesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OccurrencesArray" />
+      <module name="fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoD_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoD_array" />
       <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LCM" />
-        <item itemvalue="Application.sumOfDigits" />
-        <item itemvalue="Application.factorial" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.parameter" />
+        <item itemvalue="Application.OccurrencesArray" />
+        <item itemvalue="Application.ArrSumAvg" />
+        <item itemvalue="Application.TwoD_array" />
+        <item itemvalue="Application.ArraySearching" />
+        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +272,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
       </set>
     </attachedChunks>
   </component>
@@ -289,7 +299,10 @@
       <workItem from="1770181392680" duration="287000" />
       <workItem from="1770181708518" duration="209000" />
       <workItem from="1770182220709" duration="1434000" />
-      <workItem from="1770215778383" duration="5334000" />
+      <workItem from="1770215778383" duration="7278000" />
+      <workItem from="1770280634408" duration="8904000" />
+      <workItem from="1770373453272" duration="684000" />
+      <workItem from="1770481441822" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="updated fundamentals of java">
       <option name="closed" value="true" />
@@ -323,7 +336,71 @@
       <option name="project" value="LOCAL" />
       <updated>1769955479674</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1770229533923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770229533923</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1770373480058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770373480058</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1770481480767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770481480767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1770576320264</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770576320264</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add some more codes on previous">
+      <option name="closed" value="true" />
+      <created>1770721645931</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770721645931</updated>
+    </task>
+    <task id="LOCAL-00010" summary="array , function , loops and more..">
+      <option name="closed" value="true" />
+      <created>1770721712384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770721712384</updated>
+    </task>
+    <task id="LOCAL-00011" summary="array , function , loops and more..">
+      <option name="closed" value="true" />
+      <created>1770807942685</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770807942685</updated>
+    </task>
+    <task id="LOCAL-00012" summary="array , function , loops and more..">
+      <option name="closed" value="true" />
+      <created>1770833325640</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770833325640</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +412,8 @@
     </ignored-roots>
     <MESSAGE value="updated fundamentals of java" />
     <MESSAGE value="add some more codes on previous" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some more codes on previous" />
+    <MESSAGE value="array , function , loops and more.." />
+    <option name="LAST_COMMIT_MESSAGE" value="array , function , loops and more.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
