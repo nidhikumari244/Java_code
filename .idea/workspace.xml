@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/MaxMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/IsShortedARR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +70,10 @@
     "Application.ArraySearching.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.IsShortedARR.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxMinArray.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.OccurrencesArray.executor": "Run",
     "Application.Oddeven.executor": "Run",
@@ -139,7 +141,7 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxMinArray">
+  <component name="RunManager" selected="Application.IsShortedARR">
     <configuration name="ArrSumAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrSumAvg" />
       <module name="fundamentals" />
@@ -147,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySearching" />
+    <configuration name="IsShortedARR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsShortedARR" />
       <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsShortedARR" />
         <item itemvalue="Application.MaxMinArray" />
         <item itemvalue="Application.OccurrencesArray" />
         <item itemvalue="Application.ArrSumAvg" />
         <item itemvalue="Application.TwoD_array" />
-        <item itemvalue="Application.ArraySearching" />
       </list>
     </recent_temporary>
   </component>
