@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/SumAvg2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/search2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/DiagonalSum2DArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-fundamentals/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-fundamentals/src/ArrayUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,9 +148,9 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumAvg2DArray">
-    <configuration name="DeleteFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteFromArray" />
+  <component name="RunManager" selected="Application.DiagonalSum2DArr">
+    <configuration name="DiagonalSum2DArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiagonalSum2DArr" />
       <module name="fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -271,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiagonalSum2DArr" />
         <item itemvalue="Application.SumAvg2DArray" />
         <item itemvalue="Application.search2DArray" />
         <item itemvalue="Application.mergeShortedArray" />
         <item itemvalue="Application.PalindromeArray" />
-        <item itemvalue="Application.DeleteFromArray" />
       </list>
     </recent_temporary>
   </component>
