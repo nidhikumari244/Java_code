@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
-      <change afterPath="$PROJECT_DIR$/java-fundamentals/src/DiagonalSum2DArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/DSA_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +71,10 @@
     "Application.Array.executor": "Run",
     "Application.ArraySearching.executor": "Run",
     "Application.DeleteFromArray.executor": "Run",
+    "Application.DiagonalSum2DArr.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.Inputs.executor": "Run",
     "Application.IsShortedARR.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Main.executor": "Run",
@@ -102,6 +106,7 @@
     "Application.leap_year.executor": "Run",
     "Application.logical.executor": "Run",
     "Application.loops.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.mergeShortedArray.executor": "Run",
     "Application.orderOperator.executor": "Run",
     "Application.parameter.executor": "Run",
@@ -123,6 +128,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -134,7 +140,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/nidhi/OneDrive/Desktop/Java for DSA/fundamentals/untitled/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals/DSA_Array/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -148,7 +154,7 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiagonalSum2DArr">
+  <component name="RunManager" selected="Application.Inputs">
     <configuration name="DiagonalSum2DArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiagonalSum2DArr" />
       <module name="fundamentals" />
@@ -156,9 +162,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeArray" />
-      <module name="fundamentals" />
+    <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inputs" />
+      <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,9 +176,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeShortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergeShortedArray" />
-      <module name="fundamentals" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inputs" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.DiagonalSum2DArr" />
         <item itemvalue="Application.SumAvg2DArray" />
         <item itemvalue="Application.search2DArray" />
-        <item itemvalue="Application.mergeShortedArray" />
-        <item itemvalue="Application.PalindromeArray" />
       </list>
     </recent_temporary>
   </component>
