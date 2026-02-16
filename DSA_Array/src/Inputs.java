@@ -6,11 +6,11 @@ class Inputs {
         Scanner in = new Scanner(System.in);
 
         // Array of primitives
-//       int[] arr = new int[6];
-//        System.out.println(arr[4]);
+       int[] arr = new int[6];
+        System.out.println(arr[4]);
 
         // input using loop--
-//       for (int i = 0;i<arr.length;i++){
+//       for (inti = 0;i<arr.length;i++){
 //           arr[i]=in.nextInt();
 //
 //        }
