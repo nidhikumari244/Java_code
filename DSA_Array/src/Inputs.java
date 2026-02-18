@@ -7,6 +7,7 @@ class Inputs {
 
         // Array of primitives
        int[] arr = new int[6];
+
         System.out.println(arr[4]);
 
         // input using loop--
@@ -29,6 +30,11 @@ class Inputs {
        for (int i = 0; i < str.length; i++) {
            str[i]= in.next();
        }
+        System.out.println(Arrays.toString(str));
+
+       // modify ---
+
+        str[1]="abc";
         System.out.println(Arrays.toString(str));
     }
 }

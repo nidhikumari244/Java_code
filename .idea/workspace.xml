@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/colNotFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/multiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/passingInFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA_Array/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Array/src/Inputs.java" afterDir="false" />
     </list>
@@ -59,107 +62,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AgeCal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrSumAvg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraySearching.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeleteFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiagonalSum2DArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsShortedARR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxMinArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccurrencesArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oddeven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Relational.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Return.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseTheDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumAvg2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoD_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ar_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bitwise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.challenges.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compoundInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.diff_Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.grading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.greaterOfThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.greatestCD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logical.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeShortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.orderOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattens.executor&quot;: &quot;Run&quot;,
-    &quot;Application.perimeter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.positiveNegativeZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.search2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.search2Darray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shorthand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.simple_interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wlc.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals/DSA_Array/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgeCal.executor": "Run",
+    "Application.Arithmetic.executor": "Run",
+    "Application.Arithmetic_operator.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrSumAvg.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArraySearching.executor": "Run",
+    "Application.DeleteFromArray.executor": "Run",
+    "Application.DiagonalSum2DArr.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Inputs.executor": "Run",
+    "Application.IsShortedARR.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxMinArray.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.OccurrencesArray.executor": "Run",
+    "Application.Oddeven.executor": "Run",
+    "Application.PalindromeArray.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.Relational.executor": "Run",
+    "Application.Return.executor": "Run",
+    "Application.ReverseTheDigits.executor": "Run",
+    "Application.SumAvg2DArray.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.TwoD_array.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.ar_triangle.executor": "Run",
+    "Application.bitwise.executor": "Run",
+    "Application.challenges.executor": "Run",
+    "Application.compoundInterest.executor": "Run",
+    "Application.diff_Pattern.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.grading.executor": "Run",
+    "Application.greaterOfThree.executor": "Run",
+    "Application.greatestCD.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.leap_year.executor": "Run",
+    "Application.logical.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.mergeShortedArray.executor": "Run",
+    "Application.multiDimension.executor": "Run",
+    "Application.orderOperator.executor": "Run",
+    "Application.parameter.executor": "Run",
+    "Application.passingInFunction.executor": "Run",
+    "Application.pattens.executor": "Run",
+    "Application.perimeter.executor": "Run",
+    "Application.positiveNegativeZero.executor": "Run",
+    "Application.reverseOfArray.executor": "Run",
+    "Application.search2DArray.executor": "Run",
+    "Application.search2Darray.executor": "Run",
+    "Application.shorthand.executor": "Run",
+    "Application.simple_interest.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.sumOfDigits.executor": "Run",
+    "Application.unary.executor": "Run",
+    "Application.wlc.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/nidhi/OneDrive/Desktop/desktop-folder/Java for DSA/fundamentals/DSA_Array/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inputs">
-    <configuration name="DiagonalSum2DArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiagonalSum2DArr" />
-      <module name="fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.colNotFix">
     <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inputs" />
       <module name="DSA_Array" />
@@ -167,9 +165,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumAvg2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumAvg2DArray" />
-      <module name="fundamentals" />
+    <configuration name="colNotFix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colNotFix" />
+      <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,9 +179,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="search2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search2DArray" />
-      <module name="fundamentals" />
+    <configuration name="multiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiDimension" />
+      <module name="DSA_Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passingInFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passingInFunction" />
+      <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.colNotFix" />
+        <item itemvalue="Application.multiDimension" />
+        <item itemvalue="Application.passingInFunction" />
         <item itemvalue="Application.Inputs" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.DiagonalSum2DArr" />
-        <item itemvalue="Application.SumAvg2DArray" />
-        <item itemvalue="Application.search2DArray" />
       </list>
     </recent_temporary>
   </component>
