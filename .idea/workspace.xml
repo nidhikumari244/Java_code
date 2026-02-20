@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="array , function , loops and more..">
-      <change afterPath="$PROJECT_DIR$/DSA_Array/src/colNotFix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Array/src/multiDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Array/src/passingInFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/MultiAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Array/src/Swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Array/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Array/src/Inputs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
     "Application.LCM.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxMinArray.executor": "Run",
+    "Application.MultiAL.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.OccurrencesArray.executor": "Run",
     "Application.Oddeven.executor": "Run",
@@ -96,6 +95,7 @@
     "Application.ar_triangle.executor": "Run",
     "Application.bitwise.executor": "Run",
     "Application.challenges.executor": "Run",
+    "Application.colNotFix.executor": "Run",
     "Application.compoundInterest.executor": "Run",
     "Application.diff_Pattern.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -157,9 +157,16 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.colNotFix">
-    <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inputs" />
+  <component name="RunManager" selected="Application.Swap">
+    <configuration name="MultiAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiAL" />
+      <module name="DSA_Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
       <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,13 +174,6 @@
     </configuration>
     <configuration name="colNotFix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colNotFix" />
-      <module name="DSA_Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="DSA_Array" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -278,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.MultiAL" />
+        <item itemvalue="Application.passingInFunction" />
         <item itemvalue="Application.colNotFix" />
         <item itemvalue="Application.multiDimension" />
-        <item itemvalue="Application.passingInFunction" />
-        <item itemvalue="Application.Inputs" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
