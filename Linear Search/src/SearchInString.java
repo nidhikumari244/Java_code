@@ -1,6 +1,8 @@
 public class SearchInString {
     public static void main(String[] args) {
         int [] arr = {1,12,24,54,65,76,87,3,100};
+
+        // have to put value on it to check
         int target = 12;
         System.out.println(linearSearch(arr, target,1,4));
 
