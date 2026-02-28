@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120125d7-fe6f-49d6-a754-fd5f69751b06" name="Changes" comment="search in string">
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/findMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear Search/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Search/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Search/src/findMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Search/src/findMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +99,7 @@
     "Application.compoundInterest.executor": "Run",
     "Application.diff_Pattern.executor": "Run",
     "Application.factorial.executor": "Run",
+    "Application.findMin.executor": "Run",
     "Application.function.executor": "Run",
     "Application.grading.executor": "Run",
     "Application.greaterOfThree.executor": "Run",
@@ -158,7 +158,7 @@
       <recent name="C:\Users\nidhi\OneDrive\Desktop\Java for DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInString">
+  <component name="RunManager" selected="Application.findMin">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Linear Search" />
@@ -187,9 +187,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passingInFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="passingInFunction" />
-      <module name="DSA_Array" />
+    <configuration name="findMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMin" />
+      <module name="Linear Search" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findMin" />
         <item itemvalue="Application.SearchInString" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.MultiAL" />
-        <item itemvalue="Application.passingInFunction" />
       </list>
     </recent_temporary>
   </component>
